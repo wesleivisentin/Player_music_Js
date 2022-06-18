@@ -15,3 +15,5 @@ const data = {
   title.innerText = data.title;
   artist.innerText= data.artist 
   audio.src = data.file
+
+  
